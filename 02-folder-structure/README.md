@@ -69,4 +69,4 @@
 
 /mnt and /media: These directories serve as mount points for temporarily mounting external storage devices or network filesystems (e.g., USB drives, CDs, additional hard disk partitions).
 
-/boot: Stores files required for the booting process, including the Linux kernel and bootloader files (e.g., GRUB configuration). 
+/boot: Stores files required for the booting process, including the Linux kernel and bootloader files (e.g., GRUB configuration)
